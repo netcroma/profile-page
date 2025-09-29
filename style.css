@@ -41,7 +41,8 @@ body {
 }
 
 header {
-    background-color: #00341f;
+    background: radial-gradient(circle at top left, #00341F 0%, #004D2A 40%, #0F0F0F 100%);
+
     margin: 0;
     padding: 20px;
     position: sticky;
@@ -155,7 +156,7 @@ button:hover {
 }
 
 footer {
-    background-color: #00341f;
+    background: radial-gradient(circle at top left, #00341F 0%, #004D2A 40%, #0F0F0F 100%);
     font-size: 32px;
     color: white;
     width: 100%;
